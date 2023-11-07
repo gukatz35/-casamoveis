@@ -1,0 +1,11 @@
+{
+  "name": "casamoveis-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "casamoveis-.js",
+  "scripts": {
+    "start" : "nodemon ./casamoveis-.js localhost:3000"
+  },
+  "keywords": [],
+  "author": ""
+}
